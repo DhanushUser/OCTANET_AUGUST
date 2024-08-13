@@ -1,0 +1,9 @@
+@media (max-width:750px) {
+    .about .about-para{
+        font-size: 13px !important;
+    }
+
+    .about .locate-detail h1{
+        font-size: 23px !important;
+    }
+}
